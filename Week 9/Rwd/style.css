@@ -1,0 +1,10 @@
+body{
+    background-color: blue;
+}
+h1{
+    text-align: center;
+    color: greenyellow;
+}
+@media screen and (max-width: 720 px;){
+    
+}
